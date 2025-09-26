@@ -1,4 +1,4 @@
-This is a HUD for RaceRoomRacingExperience
+This is a HUD for RaceRoomRacingExperience. Fork from the Original OtterHud.
 
 All information can be found here:
 
