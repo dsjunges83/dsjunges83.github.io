@@ -1,3 +1,12 @@
+		0.1
+		----------
+		SealHud Fork Release
+		
+		GENERAL
+		- Added - Interlagos track info (corner names, length, pit spot positions, etc.)
+		- Changed QR code to new KW studios forum
+		- Embedded fonts (it doesn't load from Google anymore)
+		
 		1.26
 		----------
 		GENERAL
